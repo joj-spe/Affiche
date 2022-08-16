@@ -1,0 +1,177 @@
+body{
+    width: 1000px;
+    height: 1000px;
+    background: black;
+    
+}
+.back
+{
+    background: palevioletred;
+    width: 500px;
+    height: 740px;
+    left: 500px;
+
+    position: absolute;
+}
+h1{
+
+    width: 350px;
+    margin-left: 50px;
+    font-family: 'Calibri';
+    font-size: 50px;
+    color: aliceblue;
+}
+/**.a{
+    font-size: 200px;
+    width: 500px;
+    left: 620px;
+    top: 130px;
+    font-weight: 100;
+    color: aliceblue;
+    
+    position: absolute;
+}**/
+.b{
+    font-size: 220px;
+    color: aliceblue;
+    left: 620px;
+    top: 130px;
+    position: absolute;
+}
+.v-line
+{
+    border-left: thick solid aliceblue;
+    height: 35px;
+    left: 792.4px; 
+    top: 250px;
+    
+    position: absolute;
+}
+.c{
+    font-size: 220px;
+    color: aliceblue;
+    left: 700px;
+    top: 190px;
+    position: absolute;
+}
+.s-line
+{
+    border-left: thick solid aliceblue;
+    height: 35px;
+    left: 713px; 
+    top: 310px;
+    
+    position: absolute;
+}
+.d{
+    font-size: 220px;
+    color: aliceblue;
+    left: 630px;
+    top: 263px;
+    position: absolute;
+}
+.t-line
+{
+    border-left: thick solid aliceblue;
+    height: 35px;
+    left: 643px; 
+    top: 382px;
+    
+    position: absolute;
+}
+.e{
+    font-size: 220px;
+    color: aliceblue;
+    left: 660px;
+    top: 335px;
+    position: absolute;
+}
+.u-line
+{
+    border-left: thick solid aliceblue;
+    height: 35px;
+    left: 832.455px; 
+    top: 455px;
+    
+    position: absolute;
+}
+hr
+{
+    height: 50px;
+    width: 25px;
+    left: 740px;
+    top: 190px;
+    background-color: aliceblue;
+    border: 0px;
+    
+    position: absolute;
+}
+.two
+{
+    height: 200px;
+    width: 25px;
+    left: 740px;
+    top: 490px;
+    background-color: aliceblue;
+    border: 0px;
+    
+    position: absolute;
+}
+.three
+{
+    height: 30px;
+    width: 305px;
+    left: 600px;
+    top: 680px;
+    background-color: aliceblue;
+    border: 0px;
+    
+    position: absolute;
+}
+.f
+{
+    font-size: 60px;
+    color: aliceblue;
+    left: 700px;
+    top: 230px;
+    position: absolute;
+}
+.g
+{
+    font-size: 60px;
+    color: aliceblue;
+    left: 755px;
+    top: 290px;
+    position: absolute;
+}
+.h 
+{
+    font-size: 60px;
+    color: aliceblue;
+    left: 690px;
+    top: 365px;
+    position: absolute;
+}
+.i 
+{
+    font-size: 60px;
+    color: aliceblue;
+    left: 720px;
+    top: 435px;
+    position: absolute;
+}
+.final
+{
+    width: 209px;
+    height: 25px;
+    left: 790px;
+    top: 7px;
+    background-color: aliceblue;
+    position: absolute;
+}
+p{
+    margin-top: 3px;
+    margin-left: 5px;
+    font-family: 'Arial absolute';
+    font-weight: 200;
+}
